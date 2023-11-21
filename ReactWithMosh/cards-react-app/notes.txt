@@ -1,0 +1,24 @@
+create app with vite@4.1.0 
+npm create vite@4.1.0
+select the framework from that 
+selected react, typescript now
+cd project
+npm i 
+npm run dev
+# class based or function based project 
+function based used here
+
+React is a library :
+form validation, internationalization, managing app state, Animations, routing
+
+Props:
+- input passed to a comp
+- similar to func args 
+- immutable
+
+State:
+- data managed by a comp
+- similar to local variables
+- mutable
+
+common to props and state : cause a re-render
